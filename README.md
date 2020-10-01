@@ -52,7 +52,7 @@ debugging.
 
 By default the program is installed in `$HOME/.local/bin` location.
 
-If xgetrootname is required, run `make xgetrootname`.
+If xgetrootname is required, run `make xgetrootname`
 
 # Acknowledgements
 
