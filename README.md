@@ -48,7 +48,7 @@ debugging.
 
 1) Clone the repository
 2) Go to project directory `cd dwmblocks`
-3) Run `sudo make clean install`
+3) Run `make clean install`
 
 By default the program is installed in `$HOME/.local/bin` location.
 
